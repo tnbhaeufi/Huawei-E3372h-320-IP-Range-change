@@ -14,9 +14,7 @@ But since nobody in the world is able to read cyrillic letters I wanted to chang
 
 How to change IP:
 1. Stick your device into your PC and let the web UI open itself.
-2. create a bookmark either by pulling following link into bookmark bar or create it manually inserting the raw code of script.txt in this repo into the URL line.
+2. create a bookmark by inserting the raw code of [script.txt](script.txt) of this repo into the URL line of the bookmark creation dialogue of your browser.
 3. With the stick´s web ui opened click on the bookmark. You have to be in the tab or window of the web ui, because it directly interacts with the UI!
 4. First it will ask for the current IP range. Most Huawei devices I know use 192.168.8.1 as the default IP. This is why '8' is pre filled in the prompt. So for default cases just press enter.
 5. In the next step it will ask for the NEW IP address Range. If you type '100' in there, the device will afterwards be reachable by '192.168.100.1' for example. Just press enter afterwards and your device should automatically reinitialize and be reachable by the new IP after a few seconds.
-
-
