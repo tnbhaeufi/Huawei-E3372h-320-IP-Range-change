@@ -18,3 +18,6 @@ How to change IP:
 3. With the stick´s web ui opened click on the bookmark. You have to be in the tab or window of the web ui, because it directly interacts with the UI!
 4. First it will ask for the current IP range. Most Huawei devices I know use 192.168.8.1 as the default IP. This is why '8' is pre filled in the prompt. So for default cases just press enter.
 5. In the next step it will ask for the NEW IP address Range. If you type '100' in there, the device will afterwards be reachable by '192.168.100.1' for example. Just press enter afterwards and your device should automatically reinitialize and be reachable by the new IP after a few seconds.
+
+<b> Update 25.08.2023: Works with E3372-325 (successor of E3372-320) too. 
+thanks to @arakis86 :)
